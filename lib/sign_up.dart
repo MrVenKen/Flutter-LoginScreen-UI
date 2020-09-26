@@ -22,7 +22,7 @@ class SignUpPage extends StatelessWidget {
                     child: Text(
                       'SignUp',
                       style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.white70,
                         fontSize: 80.0,
                         fontWeight: FontWeight.bold,
                       ),
