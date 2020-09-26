@@ -1,6 +1,6 @@
 # loginscreen_ui
 
-Flutter Login Screen UI
+Open Source Flutter Login Screen UI
 
 ## Getting Started
 
